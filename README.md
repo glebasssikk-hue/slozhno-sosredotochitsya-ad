@@ -1,4 +1,4 @@
-https://github.com/glebasssikk-hue/slozhno-sosredotochitsya
+https://github.com/glebasssikk-hue/slozhno-sosredotochitsya-ad
 # Яндекс Практикум, проектная работа "Сложно сосредоточиться"
 
 ## Оглавление
@@ -12,8 +12,8 @@ https://github.com/glebasssikk-hue/slozhno-sosredotochitsya
 ### Запуск
 
 ```
-git clone https://github.com/glebasssikk-hue/slozhno-sosredotochitsya.git
-cd slozhno-sosredotochitsya
+git clone https://github.com/glebasssikk-hue/slozhno-sosredotochitsya-ad.git
+cd slozhno-sosredotochitsya-ad
 npm install
 npm run dev
 ```
